@@ -4,7 +4,7 @@
 #include <errno.h>
 #include <limits.h>
 
-#include <windows.h>//123
+#include <windows.h>
 #include <locale.h>
 
 #include "app.h"
